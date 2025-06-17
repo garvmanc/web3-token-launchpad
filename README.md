@@ -18,7 +18,7 @@ A Solana-based decentralized application (dApp) for creating custom tokens on th
 - Node.js (v16 or later)
 - npm or yarn
 - A Solana-compatible wallet (e.g., browser extension or burner wallet for testing)
-- Access to Solana Devnet RPC (`https://api.devnet.solana.com`)
+- Access to Solana Devnet RPC (`https://api.devnet.solana.com`) or could be your own RPC server which you can create at 'https://www.alchemy.com/'.
 
 ## Setup
 1. **Clone the Repository**:
